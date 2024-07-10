@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['placehold.co'],
+        domains: ['charliepsportfolio.blob.core.windows.net'],
     },
 };
 
