@@ -5,7 +5,6 @@ import { unstable_noStore as noStore } from 'next/cache';
 export default function Home() {
     const image: string = 'https://charliepsportfolio.blob.core.windows.net/assets/_4d274f88-c1bd-41b9-b3a5-e5c10fa72bb7.jpeg'
     noStore();
-    const timeOnServer = new Date().toLocaleTimeString('en-US');
   return (
       <>
           <main className="flex min-h-screen flex-col items-center justify-center">
