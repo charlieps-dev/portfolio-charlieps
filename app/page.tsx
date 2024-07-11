@@ -21,7 +21,7 @@ export default function Home() {
                       </div>
                       <SocialNetwork />
                   </div>
-                  <Image width={300} height={300} className="w-1/2 object-contain" src={image} alt='Carlos Pintor'/>
+                  <Image width={300} height={300} className="w-1/2 object-contain" src={image} alt='Carlos Pinto'/>
               </div>
           </main>
       </>
